@@ -14,8 +14,9 @@
 </p>
 
 <p align="center">
-   And I also really like to travel all over the world🌎☜(ﾟヮﾟ☜)
+   And I also really like to travel all over the world🌎
 </p>
+
 
 
 ## 🖤My favorite tools and technologies:
@@ -30,15 +31,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="40"/>&nbsp;
   
-</div>
-
-    
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>  
+                                                                                                                                                                                                                              
+                                                                                                                                                                                                                              
+                    
+### to be continued...🤗
