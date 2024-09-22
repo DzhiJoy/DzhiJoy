@@ -1,9 +1,4 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXM0czVhNzN0ZG5pbnZraGZja3Z4czh3N3Q3aTJldTBqM2oya3MzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WSBeyxvC1jH496xQGA/giphy.gif" width="100"/>
-</div>
-
-
-<h2 align="center">Greetings 👋, I'm Nastya</h2>
+<h2 align="center">Greetings 👋, I'm Anastasia</h2>
 <h3 align="center">Data Analyst Enthusiast |  A big fan of DataViz  | Business Intelligence |</h3>
 
 
