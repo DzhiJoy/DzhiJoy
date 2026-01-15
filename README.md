@@ -1,5 +1,5 @@
 <h2 align="center">Greetings 👋, I'm Anastasia</h2>
-<h3 align="center">Data Analyst Enthusiast |  A big fan of TravelTech  | Business Intelligence |</h3>
+<h3 align="center">Data Analyst Enthusiast |  A big fan of DataVis  | Business Intelligence |</h3>
 
 
 ### My favorite tools and technologies:
